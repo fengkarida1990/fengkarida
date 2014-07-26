@@ -25,8 +25,6 @@
     [self.window makeKeyAndVisible];
     
     NSString *str = @"youayou";
-    
-    //天气不错哦
 
     return YES;
 }
