@@ -26,7 +26,7 @@
     
     NSString *str = @"youayou";
     
-    //天气不错哦
+    //天气不错哦，今天是个好日子
 
     return YES;
 }
